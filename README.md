@@ -148,7 +148,7 @@ Concentration
 -------------
 A280 value is measured by Nanodrop to determine protein concentrations.
 
-![](media/image14.jpeg)
+![](media/image14.png)
 
 SDS-Gel Image
 -------------
